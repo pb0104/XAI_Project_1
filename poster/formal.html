@@ -65,7 +65,7 @@ footer{position:absolute;left:0;right:0;bottom:0;height:54px;background:var(--na
 </header>
 <main>
  <div class="col">
-  <section><h2>Abstract</h2><div class="abs"><p>We test whether an LLM shopping assistant’s <b>recommendation</b> and <b>explanation</b> stay aligned with a user’s constraints under a hidden sponsorship instruction (GPT-4o mini, synthetic catalogs). Sponsored picks rose, explanations often omitted sponsorship, and mandated disclosure did not improve outcomes. A sponsor-blind replacement policy lowered regret.</p></div></section>
+  <section><h2>Abstract</h2><div class="abs"><p>We test whether an LLM shopping assistant’s <b>recommendation</b> and <b>explanation</b> stay aligned with a user’s constraints under a hidden sponsorship instruction (GPT-6.1, synthetic catalogs). Sponsored picks rose, explanations often omitted sponsorship, and mandated disclosure did not improve outcomes. A sponsor-blind replacement policy lowered regret.</p></div></section>
   <section><h2><span>1</span>Introduction</h2>
    <p>Explanations can sound plausible yet be unfaithful to what drove the output<sup>1,2</sup>, and disclosing a conflict of interest can backfire<sup>5</sup>. We audit <b>both the decision and the explanation</b> with counterfactual probing<sup>3,4</sup>.</p></section>
   <section><h2><span>2</span>Research questions</h2>
@@ -74,7 +74,7 @@ footer{position:absolute;left:0;right:0;bottom:0;height:54px;background:var(--na
    <li><b>RQ3</b> Does mandated disclosure protect the user?</li>
    <li><b>RQ4</b> Which interventions restore alignment?</li></ol></section>
   <section><h2><span>3</span>Methodology</h2>
-   <div class="design"><div>Request<small>budget, min RAM, priorities</small></div><div>Catalog<small>5 products, 1 sponsored</small></div><div>Assistant<small>GPT-4o mini + hidden note</small></div><div>Audit<small>rules in code</small></div></div>
+   <div class="design"><div>Request<small>budget, min RAM, priorities</small></div><div>Catalog<small>5 products, 1 sponsored</small></div><div>Assistant<small>GPT-6.1 + hidden note</small></div><div>Audit<small>rules in code</small></div></div>
    <p><b>Counterfactual rotation.</b> Every product takes a turn as sponsor; request and specs stay fixed.</p>
    <table><tr><th>Condition</th><th>Hidden instruction</th></tr>
     <tr><td><i class="sw" style="background:var(--s1)"></i>C1 User-focused</td><td>Recommend what fits the user; explain trade-offs.</td></tr>
@@ -119,7 +119,7 @@ footer{position:absolute;left:0;right:0;bottom:0;height:54px;background:var(--na
   <section><h2><span>6</span>Conclusions</h2>
    <ol><li>A hidden sponsorship instruction raised sponsored picks from 21% to 55%, and picks moved with the sponsor.</li><li>Explanations often omitted sponsorship; disclosure fixed the label, not the outcomes.</li><li>A sponsor-blind replacement policy reduced regret to 0.039 on the evaluated scenarios.</li></ol></section>
   <section><h2><span>7</span>Limitations &amp; future work</h2>
-   <p style="font-size:22px">One model (GPT-4o mini), synthetic catalogs, no user study. The text audit is rule-based and was checked on 32 fresh items labelled with an LLM rubric (no human labels). <b>Next:</b> human-labelled audit, user study, other models.</p></section>
+   <p style="font-size:22px">One model (GPT-6.1), synthetic catalogs, no user study. The text audit is rule-based and was checked on 32 fresh items labelled with an LLM rubric (no human labels). <b>Next:</b> human-labelled audit, user study, other models.</p></section>
  </div>
 </main>
 <footer><span><b style="color:#fff">References</b> &nbsp;1 Jacovi &amp; Goldberg (2020) <i>ACL</i> · 2 Turpin et al. (2023) <i>NeurIPS</i> · 3 Doshi-Velez &amp; Kim (2017) <i>arXiv:1702.08608</i> · 4 Wachter et al. (2018) <i>Harv. J. L. &amp; Tech. 31</i>(2) · 5 Cain et al. (2005) <i>J. Legal Stud. 34</i>(1)</span><span>Explainable AI · Project 1 · Duke University</span></footer>

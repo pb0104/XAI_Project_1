@@ -6,7 +6,7 @@ from .pagedata import load, compute_stats, build_scenarios, valid_main
 from .analyze import M, ci
 from .build_poster import bars, legend, C, NAMES, CONDS, pct
 
-MODEL = "GPT-4o mini"
+MODEL = "GPT-6.1"
 
 
 def fci(t, digits=0):

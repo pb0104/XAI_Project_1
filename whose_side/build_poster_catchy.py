@@ -3,7 +3,7 @@ Usage: python -m whose_side.build_poster_catchy"""
 from .pagedata import load, compute_stats, valid_main
 from .analyze import M, ci
 
-MODEL = "GPT-4o mini"
+MODEL = "GPT-6.1"
 B, O, G, Y = "#2a78d6", "#eb6834", "#1baf7a", "#eda100"      # validated categorical slots 1-4
 pct = lambda v: f"{round(v * 100)}%"
 
@@ -132,7 +132,7 @@ footer{position:absolute;left:0;right:0;bottom:0;height:56px;background:#0c1730;
 <div class="take"><h2>So what does this mean?</h2>
  <div class="t"><b><i>1</i>Easy to push an AI</b><span>One hidden sentence from the store was enough.</span></div>
  <div class="t"><b><i>2</i>Hard to notice</b><span>Neither the label nor the explanation showed it.</span></div>
- <div class="t"><b><i>3</i>Don’t let it check itself</b><span>Compare with your own limits, or let a second AI decide.</span></div></div>
+ <div class="t"><b><i>3</i>Don’t take its word for it</b><span>Compare with your own limits and ask for the best non-sponsored option.</span></div></div>
 
 <footer><span>Fictional products · recorded runs of __MODEL__ · 20 requests × 5 sponsors, repeated on 20 new requests · one model, no user study</span><span>Explainable AI · Project 1 · Pranshul Bhatnagar</span></footer>
 </div></div>

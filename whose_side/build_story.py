@@ -179,12 +179,12 @@ footer{padding:40px 0 64px;color:var(--muted);font-size:13.5px;border-top:1px so
  <div class="kicker">Explainable AI · Project 1</div>
  <h1>Whose side is your AI on?</h1>
  <p class="deck">You ask an AI shopping assistant for the best laptop. But what if the store is quietly paying to promote certain laptops? Would the AI still look out for you, and would you even know?</p>
- <div class="byline">By <b>Pranshul Bhatnagar</b><i>·</i>Duke University<i>·</i>GPT-4o mini on a made-up store</div>
- <div class="verdict"><small>The short answer</small><b>A store can push the AI, and you often can’t tell.</b><span>The word “sponsored” and the AI’s own explanation did <u>not</u> reliably protect the shopper. What did help: letting a <u>second AI that doesn’t know who is sponsoring</u> make the final choice.</span></div>
+ <div class="byline">By <b>Pranshul Bhatnagar</b><i>·</i>Duke University<i>·</i>GPT-6.1 on a made-up store</div>
+ <div class="verdict"><small>The short answer</small><b>A store can push the AI, and you often can’t tell.</b><span>The word “sponsored” and the AI’s own explanation did <u>not</u> reliably protect the shopper.</span></div>
  <div class="glance">
   <div><div class="gv" style="color:var(--bad)" data-b="by_kind.infeasible.disclosed.picks_sponsored.v">33%</div><div class="gl">Even when told to say “sponsored”, the AI still recommended a sponsored laptop that was <b>over the shopper’s budget or RAM limit</b>.</div></div>
   <div><div class="gv" id="k2">42%</div><div class="gl">When it recommended a sponsored laptop, it <b>never said it was sponsored</b> in about 4 of 10 cases.</div></div>
-  <div><div class="gv"><span data-b="defenses.none.regret" data-f="n3">0.143</span><span class="ar">→</span><span data-b="defenses.blind_only.regret" data-f="n3">0.039</span></div><div class="gl">How far the final pick was from the shopper’s best laptop (0 = perfect) after a second AI made the call.</div></div>
+  <div><div class="gv" data-b="by_kind.feasible_inferior.priority_policy.picks_sponsored.v">48%</div><div class="gl">Even told to put the shopper’s limits first, the AI still picked a <b>worse</b> sponsored laptop about half the time.</div></div>
  </div>
 </header>
 
@@ -202,7 +202,7 @@ footer{padding:40px 0 64px;color:var(--muted);font-size:13.5px;border-top:1px so
   <div class="ver" style="--c:var(--s3)"><div class="n">+ must say when sponsored</div><p class="q">…and “tell the shopper if the laptop is sponsored.”</p></div>
   <div class="ver" style="--c:var(--s4)"><div class="n">+ shopper’s limits first</div><p class="q">…and “budget and RAM come first; sponsorship only breaks a tie.”</p></div>
  </div>
- <p class="small">We never told it to lie. 20 shopping requests, and in each one every laptop took a turn as the sponsor (100 runs per version), repeated on 20 new requests to make sure it wasn’t a fluke. All answers are real recorded runs of GPT-4o mini on made-up products.</p>
+ <p class="small">We never told it to lie. 20 shopping requests, and in each one every laptop took a turn as the sponsor (100 runs per version), repeated on 20 new requests to make sure it wasn’t a fluke. All answers are real recorded runs of GPT-6.1 on made-up products.</p>
 </section>
 
 <section class="ch" id="f1" style="--c:var(--s1)"><div class="sechead"><span class="secno">01</span>The obvious part</div>
@@ -270,11 +270,11 @@ footer{padding:40px 0 64px;color:var(--muted);font-size:13.5px;border-top:1px so
  <div class="take" style="margin-top:28px">
   <div class="card"><div class="n">1</div><div><b>It’s easy to push an AI</b><div>One hidden sentence from the store was enough to make it favour the sponsored laptop.</div></div></div>
   <div class="card"><div class="n">2</div><div><b>It’s hard to notice</b><div>The word “sponsored” and the AI’s own explanation did not reliably show the push or protect the shopper.</div></div></div>
-  <div class="card"><div class="n">3</div><div><b>Don’t let it check itself</b><div>The fix that worked came from outside: a second AI that didn’t know the sponsor.</div></div></div>
+  <div class="card"><div class="n">3</div><div><b>Don’t take its word for it</b><div>Check the price and specs against your own limits, and ask for the best option that is not sponsored.</div></div></div>
  </div>
  <div class="card check"><b>If you shop with an AI</b><ul><li>Check the price and specs against <i>your own</i> limits.</li><li>Ask: “What is the best option that is <i>not</i> sponsored?” and compare.</li><li>A smooth explanation is not proof of the real reason.</li></ul></div>
  <details><summary>Things we’re not sure about</summary><ul>
-  <li>It’s a small project: 20 requests per round, made-up laptops, and one AI model (GPT-4o mini). We checked what the AI says, not how real people react.</li>
+  <li>It’s a small project: 20 requests per round, made-up laptops, and one AI model (GPT-6.1). We checked what the AI says, not how real people react.</li>
   <li>The service we used to run the model might add its own hidden instructions that we can’t see.</li>
   <li>The “misleading” and “missed downsides” checks are simple rules we wrote. On 32 fresh examples they agreed with our own labels about 78–81% of the time, so treat them as rough.</li>
   <li>We told the AI about the store’s interest on purpose. We did <b>not</b> test an AI that was never told anything about its store.</li>

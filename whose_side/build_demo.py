@@ -85,7 +85,7 @@ footer{margin-top:56px;border-top:1px solid var(--grid);padding:32px 0 56px;colo
 <div id="tip" role="tooltip"></div>
 <main class="wrap">
 <header class="hd"><div class="eyebrow">Interactive demo</div><h1>Ask an AI for a laptop. Then see whose side it was on.</h1><div class="byline">By <b>Pranshul Bhatnagar</b> · Explainable AI Project 1 · Duke University</div>
-<p>You play the shopper. We show you an AI’s recommendation, then reveal the secret note the store gave it. Every reply is a real recorded answer from <span style="white-space:nowrap">GPT-4o mini</span> on made-up laptops (nothing is live).</p></header>
+<p>You play the shopper. We show you an AI’s recommendation, then reveal the secret note the store gave it. Every reply is a real recorded answer from <span style="white-space:nowrap">GPT-6.1</span> on made-up laptops (nothing is live).</p></header>
 <ol class="steps" id="steps"><li><span>1</span>Your request</li><li><span>2</span>The answer</li><li><span>3</span>Behind the curtain</li><li><span>4</span>Change the sponsor</li></ol>
 
 <section class="panel on" id="p1"><div class="card">

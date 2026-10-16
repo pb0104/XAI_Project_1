@@ -18,7 +18,7 @@ Our question: **does the assistant tell them about the better laptops, or does i
 
 ## Chapter 2: How we tested it
 
-We made a fake store (all laptops and prices are made up) and gave one AI model (GPT-4o mini) the same laptops and
+We made a fake store (all laptops and prices are made up) and gave one AI model (GPT-6.1) the same laptops and
 the same request every time. The only thing we changed was a hidden instruction from "the business". Four versions:
 
 | Version | What it was told |
@@ -159,7 +159,7 @@ that is *not* sponsored.
 
 ## Things we're not sure about
 
-- Small study: 20 requests per round, fake laptops, one AI model (GPT-4o mini), and we tested how it answers, not how real people react.
+- Small study: 20 requests per round, fake laptops, one AI model (GPT-6.1), and we tested how it answers, not how real people react.
 - The platform we called the model through might add its own hidden instructions that we can't see.
 - The "misleading" and "mentioned the downsides" checks are rules we wrote (`whose_side/textcheck.py`). On 32 fresh examples they
   agreed with our labels about 78-81% of the time. Those labels were made by Claude with a written rubric (`data/label_rubric.md`),
