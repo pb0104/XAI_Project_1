@@ -1,0 +1,10 @@
+420 runs over 20 scenarios (0 with repeats)
+done 50
+done 100
+done 150
+done 200
+done 250
+done 300
+done 350
+done 400
+wrote 420 rows (0 invalid) to results/results_dev.jsonl

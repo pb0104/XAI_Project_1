@@ -1,0 +1,1842 @@
+[
+ {
+  "id": "s000",
+  "split": "dev",
+  "budget": 900,
+  "min_ram": 16,
+  "w_battery": 0.31,
+  "w_light": 0.04,
+  "w_price": 0.65,
+  "products": [
+   {
+    "name": "PowerMax",
+    "price": 649,
+    "ram": 16,
+    "battery": 8.9,
+    "weight": 1.1
+   },
+   {
+    "name": "EduAir",
+    "price": 676,
+    "ram": 32,
+    "battery": 5.5,
+    "weight": 1.8
+   },
+   {
+    "name": "CampusBook",
+    "price": 744,
+    "ram": 16,
+    "battery": 10.2,
+    "weight": 1.6
+   },
+   {
+    "name": "StudioPro",
+    "price": 931,
+    "ram": 8,
+    "battery": 7.6,
+    "weight": 1.2
+   },
+   {
+    "name": "BrightBook",
+    "price": 787,
+    "ram": 16,
+    "battery": 5.9,
+    "weight": 1.8
+   }
+  ]
+ },
+ {
+  "id": "s001",
+  "split": "dev",
+  "budget": 800,
+  "min_ram": 16,
+  "w_battery": 0.07,
+  "w_light": 0.52,
+  "w_price": 0.41,
+  "products": [
+   {
+    "name": "BrightBook",
+    "price": 669,
+    "ram": 32,
+    "battery": 9.2,
+    "weight": 2.3
+   },
+   {
+    "name": "BudgetBasic",
+    "price": 652,
+    "ram": 32,
+    "battery": 7.2,
+    "weight": 1.3
+   },
+   {
+    "name": "ThinkLeaf",
+    "price": 759,
+    "ram": 16,
+    "battery": 5.7,
+    "weight": 1.4
+   },
+   {
+    "name": "EduAir",
+    "price": 907,
+    "ram": 16,
+    "battery": 7.6,
+    "weight": 2.4
+   },
+   {
+    "name": "StudioPro",
+    "price": 667,
+    "ram": 16,
+    "battery": 11.8,
+    "weight": 1.2
+   }
+  ]
+ },
+ {
+  "id": "s002",
+  "split": "dev",
+  "budget": 1000,
+  "min_ram": 16,
+  "w_battery": 0.03,
+  "w_light": 0.45,
+  "w_price": 0.52,
+  "products": [
+   {
+    "name": "BrightBook",
+    "price": 954,
+    "ram": 32,
+    "battery": 5.6,
+    "weight": 1.1
+   },
+   {
+    "name": "EduAir",
+    "price": 838,
+    "ram": 32,
+    "battery": 11.3,
+    "weight": 1.1
+   },
+   {
+    "name": "NovaGo",
+    "price": 858,
+    "ram": 32,
+    "battery": 7.6,
+    "weight": 1.5
+   },
+   {
+    "name": "ThinkLeaf",
+    "price": 1025,
+    "ram": 16,
+    "battery": 8.2,
+    "weight": 1.9
+   },
+   {
+    "name": "TravelLite",
+    "price": 1075,
+    "ram": 16,
+    "battery": 6.2,
+    "weight": 1.3
+   }
+  ]
+ },
+ {
+  "id": "s003",
+  "split": "dev",
+  "budget": 1000,
+  "min_ram": 16,
+  "w_battery": 0.07,
+  "w_light": 0.42,
+  "w_price": 0.51,
+  "products": [
+   {
+    "name": "TravelLite",
+    "price": 883,
+    "ram": 32,
+    "battery": 13.6,
+    "weight": 1.2
+   },
+   {
+    "name": "SwiftNote",
+    "price": 790,
+    "ram": 16,
+    "battery": 7.1,
+    "weight": 1.3
+   },
+   {
+    "name": "StudioPro",
+    "price": 948,
+    "ram": 16,
+    "battery": 7.4,
+    "weight": 1.0
+   },
+   {
+    "name": "EduAir",
+    "price": 1114,
+    "ram": 16,
+    "battery": 13.6,
+    "weight": 2.0
+   },
+   {
+    "name": "BudgetBasic",
+    "price": 1178,
+    "ram": 8,
+    "battery": 9.1,
+    "weight": 2.2
+   }
+  ]
+ },
+ {
+  "id": "s004",
+  "split": "dev",
+  "budget": 1200,
+  "min_ram": 16,
+  "w_battery": 0.31,
+  "w_light": 0.31,
+  "w_price": 0.38,
+  "products": [
+   {
+    "name": "SwiftNote",
+    "price": 1065,
+    "ram": 16,
+    "battery": 6.0,
+    "weight": 1.8
+   },
+   {
+    "name": "CampusBook",
+    "price": 892,
+    "ram": 16,
+    "battery": 10.1,
+    "weight": 1.8
+   },
+   {
+    "name": "BudgetBasic",
+    "price": 1026,
+    "ram": 16,
+    "battery": 5.6,
+    "weight": 1.3
+   },
+   {
+    "name": "NovaGo",
+    "price": 1164,
+    "ram": 32,
+    "battery": 13.6,
+    "weight": 1.8
+   },
+   {
+    "name": "PowerMax",
+    "price": 1279,
+    "ram": 16,
+    "battery": 13.9,
+    "weight": 1.7
+   }
+  ]
+ },
+ {
+  "id": "s005",
+  "split": "dev",
+  "budget": 1000,
+  "min_ram": 16,
+  "w_battery": 0.16,
+  "w_light": 0.19,
+  "w_price": 0.65,
+  "products": [
+   {
+    "name": "StudioPro",
+    "price": 805,
+    "ram": 32,
+    "battery": 6.3,
+    "weight": 1.8
+   },
+   {
+    "name": "ThinkLeaf",
+    "price": 713,
+    "ram": 32,
+    "battery": 13.8,
+    "weight": 2.2
+   },
+   {
+    "name": "TravelLite",
+    "price": 833,
+    "ram": 32,
+    "battery": 13.2,
+    "weight": 1.5
+   },
+   {
+    "name": "BrightBook",
+    "price": 977,
+    "ram": 32,
+    "battery": 10.7,
+    "weight": 1.9
+   },
+   {
+    "name": "CampusBook",
+    "price": 1214,
+    "ram": 8,
+    "battery": 12.3,
+    "weight": 2.1
+   }
+  ]
+ },
+ {
+  "id": "s006",
+  "split": "dev",
+  "budget": 800,
+  "min_ram": 16,
+  "w_battery": 0.57,
+  "w_light": 0.39,
+  "w_price": 0.04,
+  "products": [
+   {
+    "name": "CampusBook",
+    "price": 737,
+    "ram": 32,
+    "battery": 9.0,
+    "weight": 2.3
+   },
+   {
+    "name": "StudioPro",
+    "price": 649,
+    "ram": 32,
+    "battery": 5.7,
+    "weight": 1.1
+   },
+   {
+    "name": "ThinkLeaf",
+    "price": 680,
+    "ram": 16,
+    "battery": 8.0,
+    "weight": 1.7
+   },
+   {
+    "name": "TravelLite",
+    "price": 976,
+    "ram": 8,
+    "battery": 9.3,
+    "weight": 1.9
+   },
+   {
+    "name": "PowerMax",
+    "price": 841,
+    "ram": 8,
+    "battery": 13.2,
+    "weight": 2.1
+   }
+  ]
+ },
+ {
+  "id": "s007",
+  "split": "dev",
+  "budget": 800,
+  "min_ram": 16,
+  "w_battery": 0.45,
+  "w_light": 0.22,
+  "w_price": 0.33,
+  "products": [
+   {
+    "name": "PowerMax",
+    "price": 581,
+    "ram": 16,
+    "battery": 6.5,
+    "weight": 1.2
+   },
+   {
+    "name": "SwiftNote",
+    "price": 598,
+    "ram": 32,
+    "battery": 12.3,
+    "weight": 1.2
+   },
+   {
+    "name": "ThinkLeaf",
+    "price": 771,
+    "ram": 32,
+    "battery": 10.9,
+    "weight": 1.5
+   },
+   {
+    "name": "BudgetBasic",
+    "price": 853,
+    "ram": 8,
+    "battery": 5.1,
+    "weight": 2.4
+   },
+   {
+    "name": "EduAir",
+    "price": 954,
+    "ram": 8,
+    "battery": 8.9,
+    "weight": 2.2
+   }
+  ]
+ },
+ {
+  "id": "s008",
+  "split": "dev",
+  "budget": 800,
+  "min_ram": 8,
+  "w_battery": 0.32,
+  "w_light": 0.37,
+  "w_price": 0.31,
+  "products": [
+   {
+    "name": "BrightBook",
+    "price": 773,
+    "ram": 16,
+    "battery": 5.5,
+    "weight": 2.0
+   },
+   {
+    "name": "EduAir",
+    "price": 789,
+    "ram": 32,
+    "battery": 11.0,
+    "weight": 2.1
+   },
+   {
+    "name": "StudioPro",
+    "price": 692,
+    "ram": 32,
+    "battery": 12.4,
+    "weight": 2.2
+   },
+   {
+    "name": "ThinkLeaf",
+    "price": 598,
+    "ram": 16,
+    "battery": 12.9,
+    "weight": 2.1
+   },
+   {
+    "name": "BudgetBasic",
+    "price": 858,
+    "ram": 8,
+    "battery": 6.3,
+    "weight": 1.9
+   }
+  ]
+ },
+ {
+  "id": "s009",
+  "split": "dev",
+  "budget": 700,
+  "min_ram": 32,
+  "w_battery": 0.05,
+  "w_light": 0.54,
+  "w_price": 0.41,
+  "products": [
+   {
+    "name": "ThinkLeaf",
+    "price": 559,
+    "ram": 32,
+    "battery": 12.0,
+    "weight": 1.7
+   },
+   {
+    "name": "PowerMax",
+    "price": 632,
+    "ram": 32,
+    "battery": 11.8,
+    "weight": 2.3
+   },
+   {
+    "name": "CampusBook",
+    "price": 602,
+    "ram": 32,
+    "battery": 10.5,
+    "weight": 1.7
+   },
+   {
+    "name": "NovaGo",
+    "price": 790,
+    "ram": 16,
+    "battery": 9.6,
+    "weight": 2.1
+   },
+   {
+    "name": "SwiftNote",
+    "price": 783,
+    "ram": 16,
+    "battery": 13.3,
+    "weight": 2.2
+   }
+  ]
+ },
+ {
+  "id": "s010",
+  "split": "dev",
+  "budget": 800,
+  "min_ram": 16,
+  "w_battery": 0.2,
+  "w_light": 0.17,
+  "w_price": 0.63,
+  "products": [
+   {
+    "name": "PowerMax",
+    "price": 731,
+    "ram": 32,
+    "battery": 12.1,
+    "weight": 2.3
+   },
+   {
+    "name": "BudgetBasic",
+    "price": 599,
+    "ram": 32,
+    "battery": 6.3,
+    "weight": 2.2
+   },
+   {
+    "name": "SwiftNote",
+    "price": 679,
+    "ram": 16,
+    "battery": 11.7,
+    "weight": 1.1
+   },
+   {
+    "name": "CampusBook",
+    "price": 861,
+    "ram": 8,
+    "battery": 6.5,
+    "weight": 1.6
+   },
+   {
+    "name": "BrightBook",
+    "price": 906,
+    "ram": 16,
+    "battery": 6.8,
+    "weight": 1.4
+   }
+  ]
+ },
+ {
+  "id": "s011",
+  "split": "dev",
+  "budget": 900,
+  "min_ram": 8,
+  "w_battery": 0.23,
+  "w_light": 0.31,
+  "w_price": 0.46,
+  "products": [
+   {
+    "name": "SwiftNote",
+    "price": 687,
+    "ram": 16,
+    "battery": 13.7,
+    "weight": 1.1
+   },
+   {
+    "name": "EduAir",
+    "price": 765,
+    "ram": 32,
+    "battery": 5.4,
+    "weight": 2.1
+   },
+   {
+    "name": "StudioPro",
+    "price": 768,
+    "ram": 16,
+    "battery": 12.4,
+    "weight": 2.2
+   },
+   {
+    "name": "ThinkLeaf",
+    "price": 986,
+    "ram": 16,
+    "battery": 6.3,
+    "weight": 2.3
+   },
+   {
+    "name": "CampusBook",
+    "price": 1099,
+    "ram": 16,
+    "battery": 5.8,
+    "weight": 1.1
+   }
+  ]
+ },
+ {
+  "id": "s012",
+  "split": "dev",
+  "budget": 800,
+  "min_ram": 16,
+  "w_battery": 0.76,
+  "w_light": 0.23,
+  "w_price": 0.01,
+  "products": [
+   {
+    "name": "PowerMax",
+    "price": 577,
+    "ram": 32,
+    "battery": 12.8,
+    "weight": 1.6
+   },
+   {
+    "name": "StudioPro",
+    "price": 646,
+    "ram": 32,
+    "battery": 13.3,
+    "weight": 1.4
+   },
+   {
+    "name": "BrightBook",
+    "price": 593,
+    "ram": 16,
+    "battery": 9.7,
+    "weight": 1.3
+   },
+   {
+    "name": "NovaGo",
+    "price": 601,
+    "ram": 32,
+    "battery": 5.5,
+    "weight": 1.3
+   },
+   {
+    "name": "ThinkLeaf",
+    "price": 638,
+    "ram": 16,
+    "battery": 7.6,
+    "weight": 1.7
+   }
+  ]
+ },
+ {
+  "id": "s013",
+  "split": "dev",
+  "budget": 800,
+  "min_ram": 16,
+  "w_battery": 0.56,
+  "w_light": 0.03,
+  "w_price": 0.41,
+  "products": [
+   {
+    "name": "CampusBook",
+    "price": 622,
+    "ram": 32,
+    "battery": 6.0,
+    "weight": 2.1
+   },
+   {
+    "name": "BrightBook",
+    "price": 670,
+    "ram": 32,
+    "battery": 9.9,
+    "weight": 2.2
+   },
+   {
+    "name": "BudgetBasic",
+    "price": 689,
+    "ram": 32,
+    "battery": 11.2,
+    "weight": 2.4
+   },
+   {
+    "name": "StudioPro",
+    "price": 773,
+    "ram": 16,
+    "battery": 8.6,
+    "weight": 1.5
+   },
+   {
+    "name": "ThinkLeaf",
+    "price": 593,
+    "ram": 16,
+    "battery": 5.6,
+    "weight": 2.0
+   }
+  ]
+ },
+ {
+  "id": "s014",
+  "split": "dev",
+  "budget": 900,
+  "min_ram": 16,
+  "w_battery": 0.15,
+  "w_light": 0.08,
+  "w_price": 0.77,
+  "products": [
+   {
+    "name": "NovaGo",
+    "price": 653,
+    "ram": 32,
+    "battery": 6.7,
+    "weight": 1.4
+   },
+   {
+    "name": "StudioPro",
+    "price": 631,
+    "ram": 32,
+    "battery": 8.3,
+    "weight": 1.5
+   },
+   {
+    "name": "BudgetBasic",
+    "price": 795,
+    "ram": 16,
+    "battery": 5.3,
+    "weight": 2.2
+   },
+   {
+    "name": "EduAir",
+    "price": 723,
+    "ram": 16,
+    "battery": 8.0,
+    "weight": 1.1
+   },
+   {
+    "name": "TravelLite",
+    "price": 732,
+    "ram": 16,
+    "battery": 9.5,
+    "weight": 1.0
+   }
+  ]
+ },
+ {
+  "id": "s015",
+  "split": "dev",
+  "budget": 900,
+  "min_ram": 8,
+  "w_battery": 0.13,
+  "w_light": 0.52,
+  "w_price": 0.35,
+  "products": [
+   {
+    "name": "StudioPro",
+    "price": 900,
+    "ram": 16,
+    "battery": 10.9,
+    "weight": 2.0
+   },
+   {
+    "name": "BrightBook",
+    "price": 829,
+    "ram": 32,
+    "battery": 11.5,
+    "weight": 1.7
+   },
+   {
+    "name": "BudgetBasic",
+    "price": 775,
+    "ram": 16,
+    "battery": 5.4,
+    "weight": 2.2
+   },
+   {
+    "name": "CampusBook",
+    "price": 1080,
+    "ram": 16,
+    "battery": 11.6,
+    "weight": 2.1
+   },
+   {
+    "name": "NovaGo",
+    "price": 898,
+    "ram": 16,
+    "battery": 12.4,
+    "weight": 1.8
+   }
+  ]
+ },
+ {
+  "id": "s016",
+  "split": "dev",
+  "budget": 800,
+  "min_ram": 8,
+  "w_battery": 0.06,
+  "w_light": 0.25,
+  "w_price": 0.69,
+  "products": [
+   {
+    "name": "PowerMax",
+    "price": 720,
+    "ram": 16,
+    "battery": 10.6,
+    "weight": 2.0
+   },
+   {
+    "name": "SwiftNote",
+    "price": 685,
+    "ram": 32,
+    "battery": 5.0,
+    "weight": 2.1
+   },
+   {
+    "name": "ThinkLeaf",
+    "price": 751,
+    "ram": 16,
+    "battery": 10.9,
+    "weight": 1.1
+   },
+   {
+    "name": "StudioPro",
+    "price": 884,
+    "ram": 8,
+    "battery": 12.6,
+    "weight": 1.3
+   },
+   {
+    "name": "CampusBook",
+    "price": 879,
+    "ram": 16,
+    "battery": 9.4,
+    "weight": 1.5
+   }
+  ]
+ },
+ {
+  "id": "s017",
+  "split": "dev",
+  "budget": 1000,
+  "min_ram": 16,
+  "w_battery": 0.38,
+  "w_light": 0.3,
+  "w_price": 0.32,
+  "products": [
+   {
+    "name": "PowerMax",
+    "price": 855,
+    "ram": 16,
+    "battery": 5.1,
+    "weight": 1.1
+   },
+   {
+    "name": "TravelLite",
+    "price": 837,
+    "ram": 16,
+    "battery": 11.2,
+    "weight": 1.9
+   },
+   {
+    "name": "EduAir",
+    "price": 848,
+    "ram": 32,
+    "battery": 9.2,
+    "weight": 1.7
+   },
+   {
+    "name": "NovaGo",
+    "price": 981,
+    "ram": 16,
+    "battery": 7.8,
+    "weight": 1.1
+   },
+   {
+    "name": "ThinkLeaf",
+    "price": 1094,
+    "ram": 16,
+    "battery": 5.7,
+    "weight": 1.7
+   }
+  ]
+ },
+ {
+  "id": "s018",
+  "split": "dev",
+  "budget": 1000,
+  "min_ram": 16,
+  "w_battery": 0.17,
+  "w_light": 0.41,
+  "w_price": 0.42,
+  "products": [
+   {
+    "name": "PowerMax",
+    "price": 834,
+    "ram": 32,
+    "battery": 6.2,
+    "weight": 2.1
+   },
+   {
+    "name": "BrightBook",
+    "price": 960,
+    "ram": 32,
+    "battery": 13.0,
+    "weight": 2.0
+   },
+   {
+    "name": "TravelLite",
+    "price": 818,
+    "ram": 32,
+    "battery": 13.1,
+    "weight": 1.7
+   },
+   {
+    "name": "EduAir",
+    "price": 701,
+    "ram": 32,
+    "battery": 11.1,
+    "weight": 1.6
+   },
+   {
+    "name": "StudioPro",
+    "price": 1126,
+    "ram": 16,
+    "battery": 8.4,
+    "weight": 1.2
+   }
+  ]
+ },
+ {
+  "id": "s019",
+  "split": "dev",
+  "budget": 900,
+  "min_ram": 8,
+  "w_battery": 0.31,
+  "w_light": 0.32,
+  "w_price": 0.37,
+  "products": [
+   {
+    "name": "BudgetBasic",
+    "price": 663,
+    "ram": 32,
+    "battery": 8.5,
+    "weight": 2.2
+   },
+   {
+    "name": "CampusBook",
+    "price": 669,
+    "ram": 32,
+    "battery": 13.3,
+    "weight": 2.1
+   },
+   {
+    "name": "StudioPro",
+    "price": 654,
+    "ram": 32,
+    "battery": 5.9,
+    "weight": 2.2
+   },
+   {
+    "name": "TravelLite",
+    "price": 706,
+    "ram": 16,
+    "battery": 13.7,
+    "weight": 1.6
+   },
+   {
+    "name": "SwiftNote",
+    "price": 821,
+    "ram": 32,
+    "battery": 13.0,
+    "weight": 2.1
+   }
+  ]
+ },
+ {
+  "id": "s020",
+  "split": "heldout",
+  "budget": 1000,
+  "min_ram": 32,
+  "w_battery": 0.42,
+  "w_light": 0.55,
+  "w_price": 0.03,
+  "products": [
+   {
+    "name": "SwiftNote",
+    "price": 948,
+    "ram": 32,
+    "battery": 13.2,
+    "weight": 1.8
+   },
+   {
+    "name": "ThinkLeaf",
+    "price": 787,
+    "ram": 32,
+    "battery": 8.7,
+    "weight": 1.4
+   },
+   {
+    "name": "TravelLite",
+    "price": 830,
+    "ram": 32,
+    "battery": 8.7,
+    "weight": 1.3
+   },
+   {
+    "name": "EduAir",
+    "price": 1191,
+    "ram": 16,
+    "battery": 6.1,
+    "weight": 1.9
+   },
+   {
+    "name": "NovaGo",
+    "price": 956,
+    "ram": 32,
+    "battery": 10.0,
+    "weight": 1.6
+   }
+  ]
+ },
+ {
+  "id": "s021",
+  "split": "heldout",
+  "budget": 900,
+  "min_ram": 16,
+  "w_battery": 0.35,
+  "w_light": 0.45,
+  "w_price": 0.2,
+  "products": [
+   {
+    "name": "TravelLite",
+    "price": 818,
+    "ram": 32,
+    "battery": 12.3,
+    "weight": 1.3
+   },
+   {
+    "name": "EduAir",
+    "price": 640,
+    "ram": 32,
+    "battery": 8.4,
+    "weight": 2.0
+   },
+   {
+    "name": "PowerMax",
+    "price": 737,
+    "ram": 32,
+    "battery": 7.4,
+    "weight": 2.1
+   },
+   {
+    "name": "BrightBook",
+    "price": 1067,
+    "ram": 16,
+    "battery": 6.1,
+    "weight": 1.7
+   },
+   {
+    "name": "ThinkLeaf",
+    "price": 975,
+    "ram": 8,
+    "battery": 7.4,
+    "weight": 1.3
+   }
+  ]
+ },
+ {
+  "id": "s022",
+  "split": "heldout",
+  "budget": 1000,
+  "min_ram": 16,
+  "w_battery": 0.28,
+  "w_light": 0.2,
+  "w_price": 0.52,
+  "products": [
+   {
+    "name": "CampusBook",
+    "price": 942,
+    "ram": 32,
+    "battery": 5.0,
+    "weight": 1.5
+   },
+   {
+    "name": "TravelLite",
+    "price": 970,
+    "ram": 32,
+    "battery": 13.8,
+    "weight": 1.3
+   },
+   {
+    "name": "BrightBook",
+    "price": 755,
+    "ram": 16,
+    "battery": 6.4,
+    "weight": 1.7
+   },
+   {
+    "name": "BudgetBasic",
+    "price": 1231,
+    "ram": 16,
+    "battery": 5.8,
+    "weight": 2.1
+   },
+   {
+    "name": "EduAir",
+    "price": 764,
+    "ram": 16,
+    "battery": 10.1,
+    "weight": 1.1
+   }
+  ]
+ },
+ {
+  "id": "s023",
+  "split": "heldout",
+  "budget": 900,
+  "min_ram": 16,
+  "w_battery": 0.39,
+  "w_light": 0.33,
+  "w_price": 0.28,
+  "products": [
+   {
+    "name": "PowerMax",
+    "price": 728,
+    "ram": 32,
+    "battery": 7.3,
+    "weight": 2.1
+   },
+   {
+    "name": "BrightBook",
+    "price": 630,
+    "ram": 16,
+    "battery": 9.8,
+    "weight": 2.4
+   },
+   {
+    "name": "NovaGo",
+    "price": 772,
+    "ram": 32,
+    "battery": 10.8,
+    "weight": 2.2
+   },
+   {
+    "name": "TravelLite",
+    "price": 980,
+    "ram": 8,
+    "battery": 5.3,
+    "weight": 1.6
+   },
+   {
+    "name": "StudioPro",
+    "price": 934,
+    "ram": 8,
+    "battery": 6.7,
+    "weight": 2.2
+   }
+  ]
+ },
+ {
+  "id": "s024",
+  "split": "heldout",
+  "budget": 1000,
+  "min_ram": 8,
+  "w_battery": 0.14,
+  "w_light": 0.36,
+  "w_price": 0.5,
+  "products": [
+   {
+    "name": "BudgetBasic",
+    "price": 915,
+    "ram": 32,
+    "battery": 11.1,
+    "weight": 1.3
+   },
+   {
+    "name": "ThinkLeaf",
+    "price": 849,
+    "ram": 16,
+    "battery": 6.8,
+    "weight": 2.4
+   },
+   {
+    "name": "CampusBook",
+    "price": 859,
+    "ram": 16,
+    "battery": 7.1,
+    "weight": 1.3
+   },
+   {
+    "name": "EduAir",
+    "price": 1095,
+    "ram": 8,
+    "battery": 13.6,
+    "weight": 1.7
+   },
+   {
+    "name": "TravelLite",
+    "price": 814,
+    "ram": 32,
+    "battery": 8.8,
+    "weight": 1.9
+   }
+  ]
+ },
+ {
+  "id": "s025",
+  "split": "heldout",
+  "budget": 1200,
+  "min_ram": 16,
+  "w_battery": 0.92,
+  "w_light": 0.05,
+  "w_price": 0.03,
+  "products": [
+   {
+    "name": "BrightBook",
+    "price": 870,
+    "ram": 16,
+    "battery": 8.5,
+    "weight": 2.3
+   },
+   {
+    "name": "TravelLite",
+    "price": 1000,
+    "ram": 16,
+    "battery": 14.0,
+    "weight": 2.3
+   },
+   {
+    "name": "SwiftNote",
+    "price": 1008,
+    "ram": 16,
+    "battery": 6.7,
+    "weight": 2.3
+   },
+   {
+    "name": "CampusBook",
+    "price": 1236,
+    "ram": 16,
+    "battery": 11.0,
+    "weight": 1.5
+   },
+   {
+    "name": "EduAir",
+    "price": 1009,
+    "ram": 32,
+    "battery": 6.5,
+    "weight": 1.0
+   }
+  ]
+ },
+ {
+  "id": "s026",
+  "split": "heldout",
+  "budget": 900,
+  "min_ram": 8,
+  "w_battery": 0.25,
+  "w_light": 0.67,
+  "w_price": 0.08,
+  "products": [
+   {
+    "name": "BudgetBasic",
+    "price": 851,
+    "ram": 16,
+    "battery": 5.4,
+    "weight": 1.7
+   },
+   {
+    "name": "SwiftNote",
+    "price": 820,
+    "ram": 32,
+    "battery": 6.7,
+    "weight": 1.5
+   },
+   {
+    "name": "EduAir",
+    "price": 872,
+    "ram": 16,
+    "battery": 10.7,
+    "weight": 1.3
+   },
+   {
+    "name": "NovaGo",
+    "price": 1023,
+    "ram": 8,
+    "battery": 8.4,
+    "weight": 1.6
+   },
+   {
+    "name": "TravelLite",
+    "price": 935,
+    "ram": 16,
+    "battery": 6.8,
+    "weight": 1.1
+   }
+  ]
+ },
+ {
+  "id": "s027",
+  "split": "heldout",
+  "budget": 1200,
+  "min_ram": 16,
+  "w_battery": 0.22,
+  "w_light": 0.2,
+  "w_price": 0.58,
+  "products": [
+   {
+    "name": "CampusBook",
+    "price": 841,
+    "ram": 16,
+    "battery": 5.2,
+    "weight": 1.3
+   },
+   {
+    "name": "StudioPro",
+    "price": 1083,
+    "ram": 32,
+    "battery": 13.6,
+    "weight": 1.5
+   },
+   {
+    "name": "EduAir",
+    "price": 968,
+    "ram": 32,
+    "battery": 12.3,
+    "weight": 1.2
+   },
+   {
+    "name": "TravelLite",
+    "price": 1224,
+    "ram": 16,
+    "battery": 12.4,
+    "weight": 2.1
+   },
+   {
+    "name": "SwiftNote",
+    "price": 1387,
+    "ram": 16,
+    "battery": 9.1,
+    "weight": 2.1
+   }
+  ]
+ },
+ {
+  "id": "s028",
+  "split": "heldout",
+  "budget": 1200,
+  "min_ram": 8,
+  "w_battery": 0.48,
+  "w_light": 0.37,
+  "w_price": 0.15,
+  "products": [
+   {
+    "name": "SwiftNote",
+    "price": 1118,
+    "ram": 32,
+    "battery": 6.4,
+    "weight": 1.6
+   },
+   {
+    "name": "PowerMax",
+    "price": 893,
+    "ram": 16,
+    "battery": 7.4,
+    "weight": 1.1
+   },
+   {
+    "name": "CampusBook",
+    "price": 889,
+    "ram": 32,
+    "battery": 9.5,
+    "weight": 2.0
+   },
+   {
+    "name": "BudgetBasic",
+    "price": 1339,
+    "ram": 8,
+    "battery": 8.8,
+    "weight": 1.9
+   },
+   {
+    "name": "StudioPro",
+    "price": 1495,
+    "ram": 8,
+    "battery": 12.0,
+    "weight": 1.4
+   }
+  ]
+ },
+ {
+  "id": "s029",
+  "split": "heldout",
+  "budget": 900,
+  "min_ram": 32,
+  "w_battery": 0.34,
+  "w_light": 0.32,
+  "w_price": 0.34,
+  "products": [
+   {
+    "name": "ThinkLeaf",
+    "price": 708,
+    "ram": 32,
+    "battery": 13.0,
+    "weight": 1.8
+   },
+   {
+    "name": "BudgetBasic",
+    "price": 797,
+    "ram": 32,
+    "battery": 8.6,
+    "weight": 2.4
+   },
+   {
+    "name": "TravelLite",
+    "price": 889,
+    "ram": 32,
+    "battery": 10.8,
+    "weight": 1.1
+   },
+   {
+    "name": "PowerMax",
+    "price": 929,
+    "ram": 8,
+    "battery": 5.0,
+    "weight": 2.2
+   },
+   {
+    "name": "SwiftNote",
+    "price": 859,
+    "ram": 32,
+    "battery": 5.4,
+    "weight": 1.4
+   }
+  ]
+ },
+ {
+  "id": "s030",
+  "split": "heldout",
+  "budget": 700,
+  "min_ram": 8,
+  "w_battery": 0.11,
+  "w_light": 0.56,
+  "w_price": 0.33,
+  "products": [
+   {
+    "name": "PowerMax",
+    "price": 555,
+    "ram": 16,
+    "battery": 6.0,
+    "weight": 1.8
+   },
+   {
+    "name": "EduAir",
+    "price": 647,
+    "ram": 32,
+    "battery": 7.0,
+    "weight": 1.5
+   },
+   {
+    "name": "TravelLite",
+    "price": 525,
+    "ram": 16,
+    "battery": 6.8,
+    "weight": 1.4
+   },
+   {
+    "name": "BudgetBasic",
+    "price": 772,
+    "ram": 8,
+    "battery": 12.4,
+    "weight": 1.6
+   },
+   {
+    "name": "StudioPro",
+    "price": 647,
+    "ram": 32,
+    "battery": 5.7,
+    "weight": 1.0
+   }
+  ]
+ },
+ {
+  "id": "s031",
+  "split": "heldout",
+  "budget": 1000,
+  "min_ram": 32,
+  "w_battery": 0.29,
+  "w_light": 0.24,
+  "w_price": 0.47,
+  "products": [
+   {
+    "name": "NovaGo",
+    "price": 903,
+    "ram": 32,
+    "battery": 8.7,
+    "weight": 1.4
+   },
+   {
+    "name": "TravelLite",
+    "price": 857,
+    "ram": 32,
+    "battery": 13.6,
+    "weight": 1.4
+   },
+   {
+    "name": "PowerMax",
+    "price": 990,
+    "ram": 32,
+    "battery": 8.7,
+    "weight": 1.0
+   },
+   {
+    "name": "EduAir",
+    "price": 1225,
+    "ram": 16,
+    "battery": 10.8,
+    "weight": 1.5
+   },
+   {
+    "name": "ThinkLeaf",
+    "price": 1021,
+    "ram": 16,
+    "battery": 13.1,
+    "weight": 1.6
+   }
+  ]
+ },
+ {
+  "id": "s032",
+  "split": "heldout",
+  "budget": 700,
+  "min_ram": 16,
+  "w_battery": 0.34,
+  "w_light": 0.21,
+  "w_price": 0.45,
+  "products": [
+   {
+    "name": "TravelLite",
+    "price": 653,
+    "ram": 32,
+    "battery": 5.8,
+    "weight": 1.9
+   },
+   {
+    "name": "CampusBook",
+    "price": 583,
+    "ram": 16,
+    "battery": 6.3,
+    "weight": 1.4
+   },
+   {
+    "name": "NovaGo",
+    "price": 622,
+    "ram": 16,
+    "battery": 13.3,
+    "weight": 1.2
+   },
+   {
+    "name": "StudioPro",
+    "price": 770,
+    "ram": 16,
+    "battery": 6.1,
+    "weight": 2.3
+   },
+   {
+    "name": "PowerMax",
+    "price": 843,
+    "ram": 16,
+    "battery": 5.5,
+    "weight": 2.3
+   }
+  ]
+ },
+ {
+  "id": "s033",
+  "split": "heldout",
+  "budget": 1000,
+  "min_ram": 8,
+  "w_battery": 0.38,
+  "w_light": 0.26,
+  "w_price": 0.36,
+  "products": [
+   {
+    "name": "TravelLite",
+    "price": 942,
+    "ram": 16,
+    "battery": 10.1,
+    "weight": 1.1
+   },
+   {
+    "name": "BudgetBasic",
+    "price": 965,
+    "ram": 16,
+    "battery": 8.5,
+    "weight": 1.2
+   },
+   {
+    "name": "SwiftNote",
+    "price": 826,
+    "ram": 16,
+    "battery": 5.4,
+    "weight": 1.8
+   },
+   {
+    "name": "StudioPro",
+    "price": 1029,
+    "ram": 16,
+    "battery": 6.1,
+    "weight": 1.8
+   },
+   {
+    "name": "PowerMax",
+    "price": 1180,
+    "ram": 16,
+    "battery": 10.8,
+    "weight": 1.4
+   }
+  ]
+ },
+ {
+  "id": "s034",
+  "split": "heldout",
+  "budget": 800,
+  "min_ram": 16,
+  "w_battery": 0.31,
+  "w_light": 0.29,
+  "w_price": 0.4,
+  "products": [
+   {
+    "name": "TravelLite",
+    "price": 679,
+    "ram": 16,
+    "battery": 9.0,
+    "weight": 1.9
+   },
+   {
+    "name": "CampusBook",
+    "price": 769,
+    "ram": 32,
+    "battery": 12.5,
+    "weight": 2.1
+   },
+   {
+    "name": "NovaGo",
+    "price": 662,
+    "ram": 16,
+    "battery": 5.6,
+    "weight": 1.5
+   },
+   {
+    "name": "StudioPro",
+    "price": 765,
+    "ram": 32,
+    "battery": 9.5,
+    "weight": 1.9
+   },
+   {
+    "name": "BudgetBasic",
+    "price": 593,
+    "ram": 16,
+    "battery": 13.3,
+    "weight": 1.4
+   }
+  ]
+ },
+ {
+  "id": "s035",
+  "split": "heldout",
+  "budget": 1200,
+  "min_ram": 8,
+  "w_battery": 0.06,
+  "w_light": 0.54,
+  "w_price": 0.4,
+  "products": [
+   {
+    "name": "TravelLite",
+    "price": 1194,
+    "ram": 16,
+    "battery": 6.7,
+    "weight": 2.4
+   },
+   {
+    "name": "CampusBook",
+    "price": 1091,
+    "ram": 32,
+    "battery": 13.6,
+    "weight": 2.3
+   },
+   {
+    "name": "PowerMax",
+    "price": 924,
+    "ram": 16,
+    "battery": 5.6,
+    "weight": 1.5
+   },
+   {
+    "name": "StudioPro",
+    "price": 1301,
+    "ram": 16,
+    "battery": 13.1,
+    "weight": 1.4
+   },
+   {
+    "name": "EduAir",
+    "price": 1293,
+    "ram": 16,
+    "battery": 9.5,
+    "weight": 2.3
+   }
+  ]
+ },
+ {
+  "id": "s036",
+  "split": "heldout",
+  "budget": 800,
+  "min_ram": 32,
+  "w_battery": 0.24,
+  "w_light": 0.47,
+  "w_price": 0.29,
+  "products": [
+   {
+    "name": "CampusBook",
+    "price": 722,
+    "ram": 32,
+    "battery": 11.1,
+    "weight": 2.3
+   },
+   {
+    "name": "BudgetBasic",
+    "price": 603,
+    "ram": 32,
+    "battery": 6.0,
+    "weight": 1.7
+   },
+   {
+    "name": "TravelLite",
+    "price": 722,
+    "ram": 32,
+    "battery": 13.7,
+    "weight": 1.6
+   },
+   {
+    "name": "NovaGo",
+    "price": 996,
+    "ram": 8,
+    "battery": 7.3,
+    "weight": 1.7
+   },
+   {
+    "name": "PowerMax",
+    "price": 915,
+    "ram": 16,
+    "battery": 8.4,
+    "weight": 1.5
+   }
+  ]
+ },
+ {
+  "id": "s037",
+  "split": "heldout",
+  "budget": 800,
+  "min_ram": 16,
+  "w_battery": 0.52,
+  "w_light": 0.13,
+  "w_price": 0.35,
+  "products": [
+   {
+    "name": "BrightBook",
+    "price": 624,
+    "ram": 32,
+    "battery": 10.8,
+    "weight": 2.4
+   },
+   {
+    "name": "CampusBook",
+    "price": 709,
+    "ram": 32,
+    "battery": 11.6,
+    "weight": 2.0
+   },
+   {
+    "name": "StudioPro",
+    "price": 616,
+    "ram": 16,
+    "battery": 7.6,
+    "weight": 1.9
+   },
+   {
+    "name": "SwiftNote",
+    "price": 913,
+    "ram": 8,
+    "battery": 6.2,
+    "weight": 1.3
+   },
+   {
+    "name": "ThinkLeaf",
+    "price": 825,
+    "ram": 8,
+    "battery": 5.0,
+    "weight": 1.5
+   }
+  ]
+ },
+ {
+  "id": "s038",
+  "split": "heldout",
+  "budget": 700,
+  "min_ram": 32,
+  "w_battery": 0.31,
+  "w_light": 0.19,
+  "w_price": 0.5,
+  "products": [
+   {
+    "name": "BrightBook",
+    "price": 610,
+    "ram": 32,
+    "battery": 6.2,
+    "weight": 2.3
+   },
+   {
+    "name": "TravelLite",
+    "price": 551,
+    "ram": 32,
+    "battery": 9.1,
+    "weight": 1.1
+   },
+   {
+    "name": "BudgetBasic",
+    "price": 526,
+    "ram": 32,
+    "battery": 8.6,
+    "weight": 1.4
+   },
+   {
+    "name": "NovaGo",
+    "price": 654,
+    "ram": 32,
+    "battery": 10.4,
+    "weight": 1.8
+   },
+   {
+    "name": "StudioPro",
+    "price": 852,
+    "ram": 16,
+    "battery": 7.2,
+    "weight": 2.3
+   }
+  ]
+ },
+ {
+  "id": "s039",
+  "split": "heldout",
+  "budget": 700,
+  "min_ram": 8,
+  "w_battery": 0.45,
+  "w_light": 0.35,
+  "w_price": 0.2,
+  "products": [
+   {
+    "name": "CampusBook",
+    "price": 657,
+    "ram": 16,
+    "battery": 6.3,
+    "weight": 1.3
+   },
+   {
+    "name": "PowerMax",
+    "price": 644,
+    "ram": 32,
+    "battery": 12.3,
+    "weight": 1.2
+   },
+   {
+    "name": "BrightBook",
+    "price": 568,
+    "ram": 16,
+    "battery": 7.7,
+    "weight": 1.1
+   },
+   {
+    "name": "StudioPro",
+    "price": 842,
+    "ram": 8,
+    "battery": 8.4,
+    "weight": 1.6
+   },
+   {
+    "name": "SwiftNote",
+    "price": 740,
+    "ram": 16,
+    "battery": 6.6,
+    "weight": 2.4
+   }
+  ]
+ }
+]
