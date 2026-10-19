@@ -2,6 +2,8 @@
 
 *A small student experiment on whose side an AI is on when a business is behind it.*
 
+**Live site:** [https://whose-side-ai-is.netlify.app/](https://whose-side-ai-is.netlify.app/)
+
 Be honest. When you shop online and an AI says "this is the best one for you", do you just believe it? I did, kind of.
 I never really asked **whose side the assistant is on**. So I tried to find out.
 
